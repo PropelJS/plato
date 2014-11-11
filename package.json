@@ -47,10 +47,10 @@
     "analyze"
   ],
   "dependencies": {
-    "escomplex-js": "~0.1.4",
-    "posix-getopt": "~1.0.0",
-    "lodash": "~2.4.1",
+    "escomplex-js": "git://github.com/PropelJS/escomplex-js",
     "fs-extra": "~0.3.2",
-    "jshint": "~2.5.1"
+    "jshint": "~2.5.1",
+    "lodash": "~2.4.1",
+    "posix-getopt": "~1.0.0"
   }
 }
